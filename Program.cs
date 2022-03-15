@@ -6,7 +6,7 @@ using System.IO;
 using System.Text.Json;
 
 
-namespace IO
+namespace Auth
 {
     public class User
     {
