@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/auth/bin/Debug/net6.0/auth
+/Users/1lexaa/Documents/учеба/auth/bin/Debug/net6.0/auth.deps.json
+/Users/1lexaa/Documents/учеба/auth/bin/Debug/net6.0/auth.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/auth/bin/Debug/net6.0/auth.dll
+/Users/1lexaa/Documents/учеба/auth/bin/Debug/net6.0/auth.pdb
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.dll
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/refint/auth.dll
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.pdb
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/auth.genruntimeconfig.cache
+/Users/1lexaa/Documents/учеба/auth/obj/Debug/net6.0/ref/auth.dll
